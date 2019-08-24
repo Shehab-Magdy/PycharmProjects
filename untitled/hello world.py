@@ -199,7 +199,76 @@ print(str(first_number) +' + ' + str(secund_number) + ' = ' + str(first_number+s
 # elif opp == '/':
 #     hm.subnum(num1, num2)
 
-def func(par=[]):
-    par.append('a')
-    return par
-print(len(func()+func()+func()))
+# def func(par=[]):
+#     par.append('a')
+#     return par
+#
+#
+# print(func()+func()+func())
+
+
+# def dev_str(str):
+#     if len(str) % 2 == 0:
+#         re1 = str[:int(len(str) / 2)]
+#         rez = str[int(len(str) / 2):]
+#     else:
+#         re1 = str[:int(len(str) / 2 + 1)]
+#         rez = str[int(len(str) / 2 + 1):]
+#     return re1, rez
+#
+#
+# def cut_to_2(st1, st2):
+#     re1, rez = dev_str(st1)
+#     re2, rey = dev_str(st2)
+#     # if len(st1) % 2 == 0:
+#     #     re1 = st1[:int(len(st1) / 2 )]
+#     #     rez = st1[int(len(st1) / 2 ):]
+#     # else:
+#     #     re1 = st1[:int(len(st1) / 2 + 1)]
+#     #     rez = st1[int(len(st1) / 2 + 1):]
+#     # if len(st2) % 2 == 0:
+#     #     re2 = st2[:int(len(st2) / 2)]
+#     #     rey = st2[int(len(st2) / 2):]
+#     # else:
+#     #     re2 = st2[:int(len(st2) / 2 + 1)]
+#     #     rey = st2[int(len(st2) / 2 + 1):]
+#
+#     return str(re1 + rey), str(rez + re2)
+#
+#
+# str1 = 'abcd'
+# str2 = 'wxyz'
+# # res1, res2 = cut_to_2(str1, str2)
+# print(cut_to_2(str1, str2))
+
+
+# def x(x1):
+#     x2 = x1 * 3
+#     print(x2)
+#     return x2
+#
+#
+# # print(x2)
+# x2 = x(5)
+# print(x2)
+
+
+# def fact(n):
+#     if n == 1:
+#         return n
+#     else:
+#         return n * fact(n - 1)
+#
+#
+# print(fact(120))
+
+# def sum_list(L):
+#     if len(L) == 0:
+#         return 0
+#     return L.pop() + sum_list(L)
+#
+# n_list = [5, 6, 9]
+# print(sum_list(n_list))
+
+
+# algorithms , data structures, soled patterns, design patterns

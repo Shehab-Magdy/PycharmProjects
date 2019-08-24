@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2cc182d-9ba1-46ba-9537-e07e77587037" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="f2cc182d-9ba1-46ba-9537-e07e77587037" name="Default" comment="completing task beautiful soup extracting 'id' and 'class' from web page">
+      <change beforePath="$PROJECT_DIR$/../project0/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../project0/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project0/hobbies.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project0/hobbies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project0/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project0/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project0/myfamily.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project0/myfamily.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project0/todolist.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project0/todolist.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beautifulsoapTask.py" beforeDir="false" afterPath="$PROJECT_DIR$/beautifulsoapTask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beautifulsoaptest.py" beforeDir="false" afterPath="$PROJECT_DIR$/beautifulsoaptest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello world.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello world.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +50,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Shehab Magdy El-Adl &lt;cegres1@hotmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -70,16 +78,21 @@
         <option value="$PROJECT_DIR$/../CompletePython/calculator.py" />
         <option value="$PROJECT_DIR$/Employee small system in class.py" />
         <option value="$PROJECT_DIR$/HTML Ex/beautifulsoaptest.py" />
-        <option value="$PROJECT_DIR$/hello world.py" />
         <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/beautifulsoaptest.py" />
         <option value="$PROJECT_DIR$/beautifulsoapTask.py" />
+        <option value="$PROJECT_DIR$/../project0/hobbies.html" />
+        <option value="$PROJECT_DIR$/../project0/myfamily.html" />
+        <option value="$PROJECT_DIR$/../project0/todolist.html" />
+        <option value="$PROJECT_DIR$/../project0/README.md" />
+        <option value="$PROJECT_DIR$/../project0/index.html" />
+        <option value="$PROJECT_DIR$/hello world.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="697" />
+    <option name="width" value="811" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -88,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,10 +113,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -134,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.beautifulsoapTask">
+  <component name="RunManager" selected="Python.hello world">
     <configuration name="Employee small system in class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,8 +276,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.beautifulsoapTask" />
         <item itemvalue="Python.hello world" />
+        <item itemvalue="Python.beautifulsoapTask" />
         <item itemvalue="Python.Employee small system in class" />
         <item itemvalue="Python.regulartest" />
         <item itemvalue="Python.calculator" />
@@ -306,47 +320,63 @@
       <workItem from="1566244567383" duration="6946000" />
       <workItem from="1566419023116" duration="4534000" />
       <workItem from="1566513355981" duration="2403000" />
-      <workItem from="1566594569969" duration="3507000" />
+      <workItem from="1566594569969" duration="5517000" />
+      <workItem from="1566654245615" duration="13403000" />
+      <workItem from="1566685620560" duration="29000" />
     </task>
+    <task id="LOCAL-00001" summary="completing task beautiful soup extracting 'id' and 'class' from web page">
+      <created>1566598520940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566598520940</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97558000" />
+    <option name="totallyTimeSpent" value="113009000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-7" y="0" width="811" height="735" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12632374" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26498002" />
       <window_info id="Structure" order="1" weight="0.16792738" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24659865" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.49489796" />
+      <window_info anchor="bottom" x="798" y="31" width="567" height="696" id="Run" order="2" sideWeight="0.4977307" type="WINDOWED" weight="0.24659865" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.49489796" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32993197" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.3298791" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50226927" side_tool="true" weight="0.24659865" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3298791" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
-      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32756326" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completing task beautiful soup extracting 'id' and 'class' from web page" />
+    <option name="LAST_COMMIT_MESSAGE" value="completing task beautiful soup extracting 'id' and 'class' from web page" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled$Employee_Small_System.coverage" NAME="Employee Small System Coverage Results" MODIFIED="1565126343402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$Employee_small_system_in_class.coverage" NAME="Employee small system in class Coverage Results" MODIFIED="1566253506372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$beautifulsoapTask.coverage" NAME="beautifulsoapTask Coverage Results" MODIFIED="1566598044154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$beautifulsoapTask.coverage" NAME="beautifulsoapTask Coverage Results" MODIFIED="1566654390289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$Employee_Small_System__1_.coverage" NAME="Employee Small System (1) Coverage Results" MODIFIED="1565451010918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$ShehabNumberGuess03.coverage" NAME="ShehabNumberGuess03 Coverage Results" MODIFIED="1564840296222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$ShehabNumberGuess01.coverage" NAME="ShehabNumberGuess01 Coverage Results" MODIFIED="1564843116009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -354,7 +384,7 @@
     <SUITE FILE_PATH="coverage/untitled$Game.coverage" NAME="Game Coverage Results" MODIFIED="1564853633526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$regulartest.coverage" NAME="regulartest Coverage Results" MODIFIED="1566168944484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CompletePython" />
     <SUITE FILE_PATH="coverage/untitled$re.coverage" NAME="re Coverage Results" MODIFIED="1566162847436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CompletePython" />
-    <SUITE FILE_PATH="coverage/untitled$hello_world.coverage" NAME="hello world Coverage Results" MODIFIED="1566422421974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$hello_world.coverage" NAME="hello world Coverage Results" MODIFIED="1566666474769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$Guess_Number_Game.coverage" NAME="Guess Number Game Coverage Results" MODIFIED="1564940167161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
@@ -499,13 +529,6 @@
     <entry file="file://$PROJECT_DIR$/Task2_by_Shehab_Magdy.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello world.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="205" selection-start-line="205" selection-end-line="205" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -523,17 +546,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Employee small system in class.py">
+    <entry file="file://$PROJECT_DIR$/beautifulsoapTask.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-130">
-          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        <state relative-caret-position="64">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beautifulsoapTask.py">
+    <entry file="file://$PROJECT_DIR$/../project0/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project0/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="252">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project0/hobbies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project0/myfamily.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project0/todolist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Employee small system in class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello world.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="276" selection-start-line="276" selection-end-line="276" />
         </state>
       </provider>
     </entry>

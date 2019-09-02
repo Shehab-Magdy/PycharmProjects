@@ -170,7 +170,6 @@ print(str(first_number) +' + ' + str(secund_number) + ' = ' + str(first_number+s
     c-add a+b;
 5- add the result of process in a list & print it'''
 
-
 # import math
 #
 # a = eval(input('Enter your 1st number : '))
@@ -272,3 +271,30 @@ print(str(first_number) +' + ' + str(secund_number) + ' = ' + str(first_number+s
 
 
 # algorithms , data structures, soled patterns, design patterns
+
+# from random import randint
+#
+#
+# def make_number(d):
+#     while True:
+#         y = randint(1, 10)
+#         if y not in d:
+#             print('the suggested number is :', y)
+#             d.append(y)
+#             return d
+#         elif len(d) == 10:
+#             print('No more number will be generated.')
+#             return False
+#
+#
+# x = []
+# while True:
+#     i = input('Press any key to continue, or x to exit.')
+#     if i.lower() != 'x':
+#         y = make_number(x)
+#         if y != False:
+#             x = y
+#         else:
+#             break
+#     else:
+#         break

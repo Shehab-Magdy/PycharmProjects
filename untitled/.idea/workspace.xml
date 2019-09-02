@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2cc182d-9ba1-46ba-9537-e07e77587037" name="Default" comment="completing task beautiful soup extracting 'id' and 'class' from web page">
-      <change beforePath="$PROJECT_DIR$/../project0/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../project0/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project0/hobbies.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project0/hobbies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project0/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project0/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project0/myfamily.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project0/myfamily.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project0/todolist.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project0/todolist.html" afterDir="false" />
+    <list default="true" id="f2cc182d-9ba1-46ba-9537-e07e77587037" name="Default" comment="class 6">
+      <change afterPath="$PROJECT_DIR$/../battle/.idea/battle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../battle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../battle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../battle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../battle/classes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../battle/classes/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../battle/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello world.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello world.py" afterDir="false" />
     </list>
@@ -90,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="811" />
     <option name="height" value="735" />
@@ -125,7 +128,7 @@
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -277,8 +280,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.hello world" />
-        <item itemvalue="Python.beautifulsoapTask" />
         <item itemvalue="Python.Employee small system in class" />
+        <item itemvalue="Python.beautifulsoapTask" />
         <item itemvalue="Python.regulartest" />
         <item itemvalue="Python.calculator" />
       </list>
@@ -322,7 +325,11 @@
       <workItem from="1566513355981" duration="2403000" />
       <workItem from="1566594569969" duration="5517000" />
       <workItem from="1566654245615" duration="13403000" />
-      <workItem from="1566685620560" duration="29000" />
+      <workItem from="1566685620560" duration="343000" />
+      <workItem from="1566762910800" duration="1581000" />
+      <workItem from="1567103382496" duration="353000" />
+      <workItem from="1567259084763" duration="6808000" />
+      <workItem from="1567458197084" duration="440000" />
     </task>
     <task id="LOCAL-00001" summary="completing task beautiful soup extracting 'id' and 'class' from web page">
       <created>1566598520940</created>
@@ -331,38 +338,45 @@
       <option name="project" value="LOCAL" />
       <updated>1566598520940</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="class 6">
+      <created>1566686015842</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566686015842</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113009000" />
+    <option name="totallyTimeSpent" value="122496000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="811" height="735" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26498002" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" weight="0.16792738" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
-      <window_info anchor="bottom" x="798" y="31" width="567" height="696" id="Run" order="2" sideWeight="0.4977307" type="WINDOWED" weight="0.24659865" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.49489796" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.3298791" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50226927" side_tool="true" weight="0.24659865" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3298791" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49924356" weight="0.49489796" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.3298791" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50226927" side_tool="true" weight="0.24659865" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.3298791" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="right" id="Database" order="5" weight="0.32756326" />
+      <window_info anchor="right" x="906" y="31" width="459" height="696" id="Run" order="6" sideWeight="0.4977307" weight="0.36762482" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,13 +384,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completing task beautiful soup extracting 'id' and 'class' from web page" />
-    <option name="LAST_COMMIT_MESSAGE" value="completing task beautiful soup extracting 'id' and 'class' from web page" />
+    <MESSAGE value="class 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 6" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled$Employee_Small_System.coverage" NAME="Employee Small System Coverage Results" MODIFIED="1565126343402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$Employee_small_system_in_class.coverage" NAME="Employee small system in class Coverage Results" MODIFIED="1566253506372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$beautifulsoapTask.coverage" NAME="beautifulsoapTask Coverage Results" MODIFIED="1566654390289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Employee_small_system_in_class.coverage" NAME="Employee small system in class Coverage Results" MODIFIED="1567259226514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$Employee_Small_System__1_.coverage" NAME="Employee Small System (1) Coverage Results" MODIFIED="1565451010918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$ShehabNumberGuess03.coverage" NAME="ShehabNumberGuess03 Coverage Results" MODIFIED="1564840296222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$ShehabNumberGuess01.coverage" NAME="ShehabNumberGuess01 Coverage Results" MODIFIED="1564843116009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -384,7 +399,7 @@
     <SUITE FILE_PATH="coverage/untitled$Game.coverage" NAME="Game Coverage Results" MODIFIED="1564853633526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$regulartest.coverage" NAME="regulartest Coverage Results" MODIFIED="1566168944484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CompletePython" />
     <SUITE FILE_PATH="coverage/untitled$re.coverage" NAME="re Coverage Results" MODIFIED="1566162847436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CompletePython" />
-    <SUITE FILE_PATH="coverage/untitled$hello_world.coverage" NAME="hello world Coverage Results" MODIFIED="1566666474769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$hello_world.coverage" NAME="hello world Coverage Results" MODIFIED="1567277398735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$Guess_Number_Game.coverage" NAME="Guess Number Game Coverage Results" MODIFIED="1564940167161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
@@ -593,15 +608,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Employee small system in class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="897">
+          <caret line="153" column="13" lean-forward="true" selection-start-line="153" selection-start-column="13" selection-end-line="153" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hello world.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="276" selection-start-line="276" selection-end-line="276" />
+        <state relative-caret-position="411">
+          <caret line="299" column="15" lean-forward="true" selection-start-line="299" selection-start-column="15" selection-end-line="299" selection-end-column="15" />
         </state>
       </provider>
     </entry>
